@@ -30,6 +30,8 @@ Committed to continuous learning and growth in the ever-evolving tech industry, 
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="python">
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="AWS">
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL">
+  <img height="30" src="https://cdn.worldvectorlogo.com/logos/json.svg" title="JSON">
+  <img height="30" src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="POSTMAN">
 
 </p>
 
