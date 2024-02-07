@@ -32,6 +32,8 @@ Committed to continuous learning and growth in the ever-evolving tech industry, 
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL">
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/json.svg" title="JSON">
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="POSTMAN">
+  <img height="30" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" title="MangoDB">
+  
 
 </p>
 
