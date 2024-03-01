@@ -16,7 +16,7 @@ Committed to continuous learning and growth in the ever-evolving tech industry, 
 </div>
 
 - 🇦🇺 I'm based in Melbourne, Australia
-- 📝 I am currently studying for a Diploma in IT at the Global Business College of Australia.
+- 📝 I am currently studying for a Diploma of IT at the Global Business College of Australia.
 - 🚀 I'm about to graduate by May this year, and currently looking for a graduate role in the sector of full stack development, cloud engineering, or DevOps.
 - 📧 You can reach out to me at [fangzhifoo@gmail.com](mailto:fangzhifoo@gmail.com)
 - 🤝 I'm open to collaborating on exciting projects as a front-end engineer.
